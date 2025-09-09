@@ -77,10 +77,15 @@ WSGI_APPLICATION = 'BibliotecaPessoal.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'biblioteca',   # nome do banco criado no Workbench
+        'USER': 'root',         # seu usuário MySQL
+        'PASSWORD': 'guilherme1',# senha do MySQL
+        'HOST': '127.0.0.1',    # localhost
+        'PORT': '3306',         # porta padrão do MySQL
     }
 }
+
 
 
 # Password validation

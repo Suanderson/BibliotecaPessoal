@@ -6,9 +6,9 @@ genérico de **Biblioteca Pessoal**, na tela principal do sistema é possível c
 e desejase mapear para ter um melhor controle. ademais, esse foi o projeto, algo simples porém funcional, é possível implementar inúmeras melhorias, porém devido a correria e os estudos foi ficando para trás.
 
 ### Desafios
-- conexão da API do django com o React: com poucas aulas para finalização do projeto foi preciso realizar inúmeras "Gambiaras" para o sistema rodar.
+- A conexão da API do django com o React: com poucas aulas para finalização do projeto foi preciso realizar inúmeras **"Gambiaras"** para o sistema rodar.
 - falta de conhecimento do React: devido ser algo novo e com tão pouco tempo para aprender, acabou ficando uma grande lacuna de conhecimento, limitando tudo oque fossemos fazer.
-- estilização em CSS no Django: essa parte, nos forçou a realizar inúmeras pesquisas de última hora, para fazer o **static** funcionar, mas a maior dificuldade foi estilizar os formulários prontos que o Dajngo oferece.
+- estilização em CSS no Django: essa parte, nos forçou a realizar inúmeras pesquisas de última hora, para fazer o **static** funcionar, mas a maior dificuldade foi estilizar os formulários prontos que o Django oferece.
 
 ### Colaboradores
 
