@@ -1,0 +1,34 @@
+# Arquivos a serem ignorados 
+
+# Ambiente virtual
+venv/
+ENV/
+*.env
+.env
+
+# Banco de dados local (SQLite, se usar)
+db.sqlite3
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log
+*.log
+
+# Arquivos compilados do C
+*.so
+
+# Migrations (exceto __init__.py)
+*/migrations/*.py
+!*/migrations/__init__.py
+
+# Configurações do editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
